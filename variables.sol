@@ -4,7 +4,7 @@ pragma solidity >=0.7.0 <0.9.0;
 //There are three types variables in solidity
 // first one is state variable.
 // second one is the local variable
-// third one is the global vaiable
+// third one is the global variable
    contract variables
    {
        uint public age = 28; // state variable
